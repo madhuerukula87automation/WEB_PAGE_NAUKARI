@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.naukari.test_cases.user_side.Test_1_Naukari_Tests"/>
+      <class name="com.naukari_app.test_cases.user_side.T1_Profile_Module_Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
